@@ -29,10 +29,17 @@
 			request.send();
 		/* STEP 8: Add an event handler that listens for the onload event of the JSON file/object */
 			request.onload = function(){
+				var iScreamInc = request.response;
 				console.log("JSON loaded!");
+				populateHeader(iScreamInc);
+				showTopFlavours(iScreamInc);
 			}
 		/* STEP 9: Build out the populateHeader() function */
-
+			function populateHeader(jsonObj){
+				var headerH1 = document.createElement("h1");
+				headerH1.textContent = jsonOnj.companyName;
+				header.appendChild(headerH1);
+			}
 		/* STEP 10a: Assemble the showTopFlavors() function */
 
 			// STEP 10b: Bind the JSON topFlavors object to a var
