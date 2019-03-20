@@ -15,6 +15,35 @@
       ],
       "image": "chocolate-mint.svg"
     },
+
+    {
+      "name": "Xtra",
+      "calories": 400,
+      "type": "ice cream",
+      "ingredients": [
+        "peppermint cream",
+        "dark chocolate chips",
+        "vanilla extract"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    },
+
+
+
+
+    {
+      "name": "Xtra 2",
+      "calories": 400,
+      "type": "ice cream",
+      "ingredients": [
+        "peppermint cream",
+        "dark chocolate chips",
+        "vanilla extract"
+      ],
+      "image": "ice-cream-xtra2.svg"
+    },
+    
+
     {
       "name": "Perfect Peach Mango",
       "calories": 350,
