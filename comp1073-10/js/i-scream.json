@@ -17,12 +17,14 @@
     },
 
     {
-      "name": "Xtra",
-      "calories": 400,
+      "name": "Fruitsplosion",
+      "calories": 300,
       "type": "ice cream",
       "ingredients": [
-        "peppermint cream",
-        "dark chocolate chips",
+        "Lime Flavoured Icecream",
+        "Blue Raspberry Bubblegum Balls",
+        "Strawberry Bubblegum Balls",
+        "Banana Bubblegum Balls",
         "vanilla extract"
       ],
       "image": "ice-cream-xtra1.svg"
@@ -32,17 +34,16 @@
 
 
     {
-      "name": "Xtra 2",
-      "calories": 400,
+      "name": "Cookie Monster",
+      "calories": 600,
       "type": "ice cream",
       "ingredients": [
-        "peppermint cream",
-        "dark chocolate chips",
-        "vanilla extract"
+        "Cookie Flavour Icecream",
+        "Cookie Dough",
+        "Chocolate Chips"
       ],
       "image": "ice-cream-xtra2.svg"
     },
-    
 
     {
       "name": "Perfect Peach Mango",
